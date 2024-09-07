@@ -1,0 +1,25 @@
+Must
+กรณีไลเซนหมดอายุ จะให้แสดง info box อย่างไรดี?
+
+Should
+
+
+Completed
+- Init
+- Create settings page 
+- Show line login button on login page
+- Show line login button on register page
+- Register 
+- Login 
+- Logout
+- Create LINE Profile page 
+- Revoke 
+- Fixed: เมื่อเปิดเข้าหน้า login ถ้ามีการ login อยู่แล้วให้รีไดเร็กไปที่หน้า wp-admin
+- สร้างเพจ redirect เพื่อเป็นตัวกลาง redirect ต่อ 
+- Show line login button on My account page (woocommerce)
+- Support WooCommerce 
+- Write readme 
+- Release 
+- Plugin automatic update
+- ทำ shortcode
+
